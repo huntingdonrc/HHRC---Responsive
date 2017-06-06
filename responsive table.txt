@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p>&nbsp;</p>
+<div style="overflow-x:auto;">
+<table border="1" cellpadding="0" cellspacing="0" style="width: 100%;" width="100%">
+	<thead>
+		<tr>
+			<th>
+			<p align="center"><strong>Event</strong></p>
+			</th>
+			<th>
+			<p align="center"><strong>Location</strong></p>
+			</th>
+			<th>
+			<p align="center"><strong>Date</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+			<p>KBIS BRC Novice Winter Champs (Show Jumping &amp; Dressage)</p>
+			</td>
+			<td>
+			<p>Keysoe EC</p>
+			</td>
+			<td>
+			<p>1<sup>st</sup> &amp; 2<sup>nd</sup> April 2017</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>EquiTheme Intermediate Winter Champs (Show Jumping &amp; Dressage)</p>
+			</td>
+			<td>
+			<p>Bury Farm EC</p>
+			</td>
+			<td>
+			<p>28<sup>th</sup> to 30<sup>th</sup> April 2017</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Horslyx FOH Champs</p>
+			</td>
+			<td>
+			<p>Aston Le Wells</p>
+			</td>
+			<td>
+			<p>20<sup>th</sup> to 21<sup>st</sup> May 2017</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>BRC NAF 5Star Horse Trials Champs</p>
+			</td>
+			<td>
+			<p>Swalcliffe</p>
+			</td>
+			<td>
+			<p>4<sup>th</sup> to 6<sup>th</sup> August 2017</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>National Champs</p>
+			</td>
+			<td>
+			<p>Lincoln</p>
+			</td>
+			<td>
+			<p>2<sup>nd</sup> % 3<sup>rd</sup> &nbsp;September 2017</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Dressage to Music &amp; Quadrille Selection</p>
+			</td>
+			<td>
+			<p>Bury Farm EC</p>
+			</td>
+			<td>
+			<p>29<sup>th</sup> Sept to 1<sup>st</sup> October 2017</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</body>
+</html>
